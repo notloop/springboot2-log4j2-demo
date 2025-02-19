@@ -1,12 +1,13 @@
-package com.bycuimiao.demo;
+package com.genspark.SpringBootDemoApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootLog4j2DemoApplication {
+public class SpringBootDemoAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootLog4j2DemoApplication.class, args);
+		SpringApplication.run(SpringBootDemoAppApplication.class, args);
 	}
+
 }
